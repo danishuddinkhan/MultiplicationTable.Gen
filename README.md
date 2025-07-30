@@ -46,10 +46,9 @@ Want any other number's table? [YES/NO]: yes
 
 ## ✅ To Run the Script
 
-```bash
 python table_generator.py
 
-🧠 Good For
+## 🧠 Good For
 
 Practicing basic Python syntax
 
@@ -57,6 +56,6 @@ Understanding loops and conditionals
 
 Beginner Python projects
 
-✍️ Author
+## ✍️ Author
 
 Made by Mohammed Danish Khan
